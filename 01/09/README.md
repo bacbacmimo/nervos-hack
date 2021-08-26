@@ -1,4 +1,4 @@
-# Gitcoin: 11) Use A Tron Wallet To Execute A Smart Contract Call
+# Gitcoin: 9) Initiate Withdrawal Process From The Layer 2 Back To Layer 1
 
 ### A screenshot of the console output immediately after running the withdraw command:
 ![b04](https://user-images.githubusercontent.com/89572507/130925940-5e5d7ed6-5de9-4376-981e-a16140c19612.png)
